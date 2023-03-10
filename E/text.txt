@@ -1,0 +1,4 @@
+netsh wlan show profile
+netsh wlan export profile folder=C:\ key=clear
+netsh wlan show profile name="WIFI NAME"
+key=clear
